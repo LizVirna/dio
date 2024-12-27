@@ -8,7 +8,7 @@ Bem-vindo ao repositório **Controle de Gastos Financeiros**! Este projeto foi d
 
 Clique no link abaixo para acessar a planilha de gastos financeiros:
 
-[**Planilha de Gastos Financeiros**]([https://1drv.ms/x/c/21b4c251a05b8311/EfhMfN_TNblAinB0MeVLC80BXA4SovKY5_Trxcre9LTH5A?e=Pigrim](https://1drv.ms/x/c/21b4c251a05b8311/EfhMfN_TNblAinB0MeVLC80Bh1yu3nHymqD_76wRsuqhDA?e=neOJej))
+[**Planilha de Gastos Financeiros**](https://1drv.ms/x/c/21b4c251a05b8311/EfhMfN_TNblAinB0MeVLC80Bh1yu3nHymqD_76wRsuqhDA?e=neOJej)
 
 ### Funcionalidades da Planilha
 
@@ -18,6 +18,5 @@ A planilha foi projetada com os seguintes recursos:
 - **Categorização de Gastos**: Classifique os gastos em categorias como alimentação, transporte, lazer, entre outras.
 - **Cálculo Automático do Saldo**: Atualiza automaticamente o saldo restante com base nos dados inseridos.
 - **Visualização Gráfica**: Inclui gráficos interativos para uma compreensão clara do seu orçamento e gastos.
-
 
 
