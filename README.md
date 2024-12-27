@@ -8,7 +8,7 @@ Bem-vindo ao repositório **Controle de Gastos Financeiros**! Este projeto foi d
 
 Clique no link abaixo para acessar a planilha de gastos financeiros:
 
-[**Planilha de Gastos Financeiros**](https://1drv.ms/x/c/21b4c251a05b8311/EfhMfN_TNblAinB0MeVLC80Bh1yu3nHymqD_76wRsuqhDA?e=neOJej)
+[**Planilha de Gastos Financeiros**](https://1drv.ms/x/c/21b4c251a05b8311/EfhMfN_TNblAinB0MeVLC80Bh1yu3nHymqD_76wRsuqhDA?e=MV5pMD)
 
 ### Funcionalidades da Planilha
 
